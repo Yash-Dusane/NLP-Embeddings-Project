@@ -74,4 +74,4 @@ To use the system, download the relevant models. You will need to load them into
 
 ---
 
-NOTE :
+NOTE : The 3 directories regarding ElMo, RNN_LSTM, and SVD_Word2Vec has the embeddings implementation, independent of Project.
